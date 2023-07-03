@@ -1,0 +1,43 @@
+@import './base.css';
+
+#OptimalCity {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-weight: normal;
+}
+
+ul{
+  list-style: none;
+}
+
+.heading-text{
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.table{
+  max-width: 600px;
+  margin: auto;
+}
+
+.data, .table-headings{
+  max-width: 600px;
+  display: flex;
+  justify-content: center;
+  margin: 2px;
+}
+
+.data-container{
+  border-bottom: solid 1px;
+}
+
+.form-container{
+  max-width: 800px;
+  margin: auto;
+}
+
+.btn{
+  margin-top: 20px;
+}
